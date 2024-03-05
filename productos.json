@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "title": "PS5",
+      "description": "Playstation 5",
+      "code": "PR001",
+      "price": 1200000,
+      "status": true,
+      "stock": 10,
+      "category": "Electrónica",
+      "thumbnail": "https://example.com/thumbnail1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Internet del Dinero",
+      "description": "Libro Andreas Antonopoulos - VolumenI",
+      "code": "PR004",
+      "price": 50000,
+      "status": true,
+      "stock": 10,
+      "category": "Literatura",
+      "thumbnail": "https://example.com/thumbnail.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Nuevo producto",
+      "description": "Descripción del nuevo producto",
+      "code": "PROD001",
+      "price": 10.99,
+      "status": true,
+      "stock": 100,
+      "category": "Electrónica",
+      "thumbnail": "https://example.com/thumbnail.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Nuevo producto",
+      "description": "Descripción del nuevo producto",
+      "code": "PROD001",
+      "price": 10.99,
+      "status": true,
+      "stock": 100,
+      "category": "Electrónica",
+      "thumbnail": "https://example.com/thumbnail.jpg"
+    }
+  ]
